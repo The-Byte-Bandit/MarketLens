@@ -1,17 +1,22 @@
 # MarketLens 📈
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/screenshot/screenshot_1.jpg)
+![App Screenshot](assets/screenshot/screenshot_2.jpg)
 
 **MarketLens** is a sleek Flutter-powered financial news aggregator that delivers real-time market updates with personalized article saving capabilities.
 
+---
+
 ## ✨ Features
 
-- **Real-time Market News** - Latest financial headlines from trusted sources
-- **Personalized Feed** - Save articles to read later
-- **Dark/Light Mode** - Eye-friendly theme switching
-- **Intuitive Search** - Find articles by keyword, source, or date
-- **Responsive Design** - Optimized for all Android devices
-- **Offline Access** - Saved articles available without internet
+- 📡 **Real-time Market News** – Latest financial headlines from trusted sources
+- 🔖 **Personalized Feed** – Save articles to read later
+- 🌙 **Dark/Light Mode** – Eye-friendly theme switching
+- 🔍 **Intuitive Search** – Find articles by keyword, source, or date
+- 📱 **Responsive Design** – Optimized for all Android screen sizes
+- 📴 **Offline Access** – Saved articles available without internet
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,14 +26,17 @@
 
 - **Frontend**: Flutter 3.x
 - **State Management**: Provider
-- **API**: Finnhub Market News
+- **API**: [Finnhub Market News](https://finnhub.io/)
 - **Local Storage**: SharedPreferences
 - **Networking**: Dio
 
+---
+
 ## 🚀 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/The-Byte-Bandit/MarketLens.git
-   cd MarketLens
-   ```
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/The-Byte-Bandit/MarketLens.git
+cd MarketLens
+```
