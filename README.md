@@ -1,7 +1,7 @@
 # MarketLens 📈
 
-![App Screenshot](assets/img/screenshot_1.jpg)
-![App Screenshot](assets/img/screenshot_2.jpg)
+![App Screenshot](assets/img/Screenshot_1.jpg)
+![App Screenshot](assets/img/Screenshot_2.jpg)
 
 **MarketLens** is a sleek Flutter-powered financial news aggregator that delivers real-time market updates with personalized article saving capabilities.
 
